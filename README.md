@@ -36,18 +36,6 @@ O LunaApp usa uma tela de informações sobre a lua como interface camuflada. Ao
 - Ação **Ligar**, que abre o discador Android com o número preenchido.
 - Ação **Enviar SOS**, que abre o aplicativo de SMS com uma mensagem de emergência pré-preenchida.
 
-## Tecnologias
-
-- Kotlin
-- Jetpack Compose
-- Material 3
-- AndroidX Activity Compose
-- Android Core KTX
-- Lifecycle Runtime KTX
-- Gradle Kotlin DSL
-- Android Gradle Plugin
-- SharedPreferences para armazenamento local
-- JUnit, Espresso e Compose UI Test
 
 ## Requisitos
 
