@@ -112,7 +112,6 @@ LunaApp/
 ## Possíveis evoluções
 
 - Armazenar a senha e os contatos com criptografia e mecanismos seguros do Android.
-- Migrar o armazenamento para Room ou DataStore.
 - Implementar confirmação biométrica.
 - Adicionar serviços de emergência em segundo plano.
 - Detectar agitações ou acionamentos específicos.
