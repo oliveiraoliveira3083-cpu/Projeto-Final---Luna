@@ -7,10 +7,15 @@
 
 - **Nome:Raphael Ferreira de Oliveira 
   - **RGM: 42912059
+  
 - **Nome: Eric crescioni monteiro
   - **RGM: 42831661
+  
 - **Nome: Rodrigo dos Santos da Silva
   - **RGM: 42545889
+  
+  - **Nome: Rafael Diógenes de Castro e Souza
+  - **RGM:42943701
 
 ---
 
